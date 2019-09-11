@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-redirect-https",
+  "description": "Http to Https redirect for Gitbook 3.x.",
+  "version": "0.0.2",
+  "main": "index",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "redirect",
+    "script",
+    "gitbook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcopeg/gitbook-plugin-redirect-https"
+  },
+  "author": {
+    "name": "marcopeg",
+    "url": "https://marcopeg.com"
+  },
+  "license": "MIT"
+}
